@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlite3
+requests
+beautifulsoup4
+re
