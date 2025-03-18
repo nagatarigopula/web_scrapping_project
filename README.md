@@ -1,7 +1,7 @@
 # Web Scraping & User Tracking Project
 
 This project tracks user activity on a website and scrapes customer reviews.
-🚀 Professional Web Scraping Project for GitHub
+🚀 Professional Web Scraping Project 
 This project will provide a high-performance, scalable, and ethical web scraping solution to track user interactions on a website.
 
 📌 Key Features:
